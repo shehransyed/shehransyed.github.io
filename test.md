@@ -1,76 +1,47 @@
-## Pitch
+A conversation with Ray Garcia, Jonathan Gold, Evan Kleiman, Bricia Lopez, and Carlos Salgado about the evolving role of Mexican cuisine in LA as culture, art, and craft
 
-A platform where people can place reservations for seats/tables at restaurants. Customers will be able to place reservations and place their orders ahead of time. The goal is to simplify management of space and reduce food waste in a post COVID-19 market.
+Source: [Food Icons on the Evolving Role of Mexican Cuisine in LA](http://blogs.getty.edu/iris/5-food-icons-on-the-evolving-role-of-mexican-cuisine-in-la/)
 
-## Features/Components
+Together, critic Jonathan Gold, food scholar Evan Kleiman, and chefs Ray Garcia, Bricia Lopez, and Carlos Salgado have spent more than a lifetime preparing, eating, and writing about Latin American cuisine. Before their recent [panel discussion](http://www.getty.edu/visit/cal/events/ev_2035.html) at the Getty, offered in conjunction with Pacific Standard Time, they sat down with us to reflect on the role of Mexican cuisine in the life of Los Angeles and how we might expand our taste buds to go deeper.
 
-### Restaurant's end
+**SS: As a chef (or critic), do you consider yourself an artist?**
 
-- Restaurant account
-- Guest management software
-- Point of sale integrations
-- Easy integration with restaurant’s website
-- Reporting feature
+**EK:** Art to me often has an intellectual component. I think of food preparation as a craft–I don’t think of it as art.
 
-### Diner's end
+**RG:** My personal approach to food is more of a craftsman. I like having my tools in hand, sort of creating and building, and my approach is much more trial and error. It’s part social scientist, and part repair person or builder. I put food out, and wait for the reaction, and see what we can push, what we can improve.
 
-- Quick registration
-- Advanced search with suggestions, filters, and ratings
-- Seating options
-- Detailed history of bookings
-- User-generated reviews
-- Online payment system
-- Pre-ordering option
+![https://s3-us-west-2.amazonaws.com/public.notion-static.com/98d6f347-ca2d-47b7-bf48-47511630182f/maarten-van-den-heuvel-400626-unsplash.jpg](https://s3-us-west-2.amazonaws.com/public.notion-static.com/98d6f347-ca2d-47b7-bf48-47511630182f/maarten-van-den-heuvel-400626-unsplash.jpg)
 
-## Benefit for Restaurants
+In the Getty Center auditorium for the recent “There Will Be Food“ panel.
 
-- Convenient and timely reservations.
-- Save time and labor spent on reservations over the phone.
-- Higher chance of operating at capacity over walk-in seating, leading to higher revenue.
-- The restaurant staff is saved from the hassle of long phone reservation calls and the confusion of bookings that arise due to human error.
-- Helps by providing information about future workload so the restaurants can prepare accordingly.
-- Keep track of the daily workload — Restaurant staff can know the exact number of guests and even their menu choices if they pre-order when making a reservation.
-- Increase customer satisfaction — Customers are impressed by a hassle-free reservation process. When booking a table ahead and enjoying quick seating and service, they feel they’re being more highly valued.
-- Take reservations 24/7 — Your restaurant may not be open around the clock, but customers can make reservations outside your business hours.
+**JG:** I’m a writer. Some people can call writers artists, some people cannot. In terms of food, there are people who approach cuisine from an art angle. Carlos Salgado is astonishing that way. His food is rooted in Mexican flavors, but there’s this level of abstraction in his food. Is it art as opposed to food? No, it’s food, but it’s being approached in a different way.
 
-## Benefit for Diners
+**CS:** The highest point in my life is being with close family and friends, in the backyard over a fire, cooking over the course of many hours, sitting under the sky, and just filling this space with so much warmth. When I’m cooking there, I feel much more like an artist than when I worked in the highest-concept restaurants. They are like museums of food, accessible only with a certain level of literacy on the part of the diner, with a certain level of cultural experience and background.
 
-- Ability to quickly find a good place to eat.
-- Don't need to worry about not finding a table.
-- Can make reservations at their convenience without having to worry about working hours of restaurants.
-- The diners can easily place their orders through the online system and reserve the seating plan of their choice.
-- Preorder food and drinks — When booking a table, customers can look through the menu, choose dishes, and preorder to eliminate the wait.
-- Pay beforehand — Once they’ve booked a table and chosen their food, customers can pay so they don’t need to wait for a waiter to bring the check.
-- Cut down frustration — Frustration arises from long waits for tables, food and drinks, and checks. A booking app cuts down on frustration and allows guests to perfectly plan their evenings.
+![https://s3-us-west-2.amazonaws.com/public.notion-static.com/88676b3e-f102-4307-a850-8c1cf98f7794/edgar-castrejon-459814-unsplash.jpg](https://s3-us-west-2.amazonaws.com/public.notion-static.com/88676b3e-f102-4307-a850-8c1cf98f7794/edgar-castrejon-459814-unsplash.jpg)
 
-## Revenue Model
+Tamale with pepitas at Taco María in Costa Mesa
 
-- Reservation fees
-- Subscriptions
-- Commissions
+**SS: This panel represents Mexican American cuisine in LA. What other kinds of Latin American cuisine or particular dishes from other regions do you like?**
 
-## Challenges/Problems
+**JG:** El Salvadoreño cooking. It’s very basic, but the ways they use corn and greens and cheese. The fermentations are lovely.
 
-- Onboarding restaurants
-- Introducing pro-reservation mentality in diners
-- Developing a robust system in limited time
-- Dine-in market on a potential decline?
-- Ensuring health and safety standards of restaurants we enlist
+**EK:** I love Guatemalan tamales, maybe more than Mexican tamales. The masa is often mixed with potato, so it’s much more tender. They’re wrapped in banana leaves, so there’s a different flavor. And the way they are filled is different; often there’s olives or raisins or prunes in them.
 
----
+**BL:** I love Peruvian food. Everything from the ceviche to rice and beans, all of the flavors. It has so much depth.
 
-## Links
+**CS:** Baja coastal cuisine. The freshness of it–you eat seafood in the morning because it just came in. Very simply prepared, very intense, briny ocean flavors: big clams, oysters, shrimp. Big, big flavors.
 
-[Must-Have Features for Your Online Restaurant Reservation Website](https://www.fatbit.com/fab/build-online-restaurant-reservation-website-with-best-features-and-business-model/)
+**SS: If you could recommend one dish or element in Mexican-American cuisine that a total beginner must try, what would it be?**
 
-[How to Develop a Restaurant Reservation App](https://steelkiwi.com/blog/how-to-develop-a-restaurant-reservation-app/)
+**EK:** Tacos, because anything you eat with your hands is less intimidating than something that requires silverware. It takes you back to the permission of childhood, and that joy of just eating that is super direct. There is nothing in between you and the food.
 
-[How To Develop an App Like OpenTable](https://yalantis.com/blog/what-technology-does-opentable-use/)
+**BL:** I think mole is a really good one. A lot of people think of it as a chocolate sauce, and yes, it has chocolate, but it also has like 18 other things. I always recommend three things: mole, the barbacoa, and the chiles rellenos at my restaurant, just because I think they are universally delicious.
 
-[The ultimate guide to a restaurant reservation system](https://www.upmenu.com/blog/the-ultimate-guide-to-a-restaurant-reservation-system/)
+![https://s3-us-west-2.amazonaws.com/public.notion-static.com/07d3113c-a91d-4b8f-83b5-7324575b74e2/christine-siracusa-363257-unsplash.jpg](https://s3-us-west-2.amazonaws.com/public.notion-static.com/07d3113c-a91d-4b8f-83b5-7324575b74e2/christine-siracusa-363257-unsplash.jpg)
 
-[Best Reservation Systems for Restaurants - Restaurant Clicks](https://restaurantclicks.com/best-restaurant-reservation-systems/)
+Dishes at Broken Spanish, in Downtown LA.
 
-[The 9 Best Online Restaurant Reservation Systems Compared](https://restaurant.eatapp.co/blog/online-restaurant-reservation-systems)
+**CS:** I would say try more and different types of chilies, and the salsas that result from them. The range of flavors, and balance of flavors, is really exciting, and is my favorite part of Mexican food.
 
-[Restaurant Reservations Market Share Report | Competitor Analysis | OpenTable Reservations widget, OpenTable, Quandoo Reservation Management System](https://www.datanyze.com/market-share/restaurant-reservations--440/Bangladesh)
+**RG:** Put aside your thoughts and limitations on what Mexican food can be, and how much it can cost. Especially in LA, there is almost a cult-like following for cheap Mexican food, for the greasy taco truck. There is something people find exciting about that, but I think it’s good to stop and wonder why your taco costs a dollar. There must be a lot behind it that allows you to eat a dollar taco. It probably doesn’t include a living wage, a safe work environment, or the best quality ingredients for you and your body. We could understand where our food is coming from and be a bit more conscious in our choices.
