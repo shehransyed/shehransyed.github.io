@@ -8,8 +8,11 @@ Hi! I am Shehran Syed. A Computer Science graduate, currently working as a VC's 
 
 Twitter | LinkedIn
 
-© Shehran Syed 2021
-
-Page updated
-
-Google Sites | Report abuse
+<div class="row">
+  <div class="column">
+    Column 1
+  </div>
+  <div class="column">
+    Column 2
+  </div>
+</div>
